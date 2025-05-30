@@ -29,7 +29,7 @@ The website has two sides; 1- The client-side and 2- The admin side.
 		Password: 123456789
 	</p>
 </div>
-<hr>
+<hr>  
 <div>
 	<h3>Installation</h3>
   	<ol>
