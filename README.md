@@ -32,7 +32,7 @@ The website has two sides; 1- The client-side and 2- The admin side.
 <hr>  
 <div>
 	<h3>Installation</h3>
-  	<ol>
+  	<ol>  
 		<li>Download the files + database file (.sql)</li>
 		<li>Create new database with the name "car_rental" and then Import the sql file downloaded </li>
 		<li>Check the files connect.php to make sure that everything is working</li>
