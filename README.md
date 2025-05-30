@@ -7,7 +7,7 @@ The website has two sides; 1- The client-side and 2- The admin side.
 2- for the admin side, the admin can manage reservations and manage cars, car brands, and car types (Create, Read, Update, Delete)	
 </p>
 <hr>  
-<div>      
+<div>        
 	<h3>Technologies</h3> 
   	<ul>
 		<li>HTML & CSS</li>
