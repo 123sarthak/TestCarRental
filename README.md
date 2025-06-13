@@ -13,7 +13,7 @@ The website has two sides; 1- The client-side and 2- The admin side.
 		<li>HTML & CSS</li>
 		<li>Bootstrap</li>
 		<li>JavaScript & Jquery & VUE JS</li>
-		<li>PHP & MYSQL</li>
+		<li>PHP & MYSQL</li>  
 	</ul>
 </div>
 <hr>
