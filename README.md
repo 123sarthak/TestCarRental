@@ -9,7 +9,7 @@ The website has two sides; 1- The client-side and 2- The admin side.
 <hr>  
 <div>        
 	<h3>Technologies</h3> 
-  	<ul>
+  	<ul>  
 		<li>HTML & CSS</li>
 		<li>Bootstrap</li>
 		<li>JavaScript & Jquery & VUE JS</li>
